@@ -3,7 +3,7 @@
 A custom sim racing button box built around an Arduino Nano, with a 
 self-designed enclosure created in Onshape and printed on a Bambu Lab A1.
 Presents to Windows as a USB HID joystick — no drivers needed, works 
-plug-and-play with iRacing and Assetto Corsa.
+plug-and-play with iRacing and Assetto Corsa Rally.
 
 ## Hardware
 
@@ -73,5 +73,5 @@ which was a good introduction to that pattern.
 
 ## Compatibility
 
-Tested with iRacing and Assetto Corsa on Windows. Should work with any 
+Tested with iRacing and Assetto Corsa Rally. Should work with any 
 sim that supports USB HID joystick input.
